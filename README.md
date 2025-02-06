@@ -47,7 +47,7 @@ Este é um aplicativo desenvolvido em Python utilizando o framework Kivy e KivyM
 ## Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/processador-imagem.git
+   git clone [https://github.com/seu-usuario/processador-imagem.git](https://github.com/Alex1105br/KivyImageProcessor.git)
    ```
 2. Instale as dependências:
    ```bash
@@ -66,6 +66,5 @@ Este é um aplicativo desenvolvido em Python utilizando o framework Kivy e KivyM
 
 
 
-## Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
